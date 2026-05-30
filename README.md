@@ -1,5 +1,4 @@
 # Vietnamese-Image-Captioning-NLP-Computer-Vision-
-# 🇻🇳 Vietnamese Image Captioning — NLP × Computer Vision
 
 > Sinh mô tả ảnh tự động bằng **tiếng Việt** sử dụng **ViT-B/16 + Transformer Decoder** trên dataset UIT-ViIC
 
